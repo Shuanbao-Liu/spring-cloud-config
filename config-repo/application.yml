@@ -1,8 +1,0 @@
-zuul:
-  routes:
-    api-provider:
-      path: /provider/**
-      serviceId:  provider
-    api-consumer:
-      path: /consumer/**
-      serviceId:  consumer
