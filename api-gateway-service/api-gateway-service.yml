@@ -6,5 +6,4 @@ zuul:
       serviceId:  provider-service
     api-consumer:
       path: /consumerccc/**
-      serviceId:  consumer-service
-
+	  serviceId:  consumer-service
