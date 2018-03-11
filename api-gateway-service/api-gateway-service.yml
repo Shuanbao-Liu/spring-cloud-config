@@ -2,8 +2,8 @@ zuul:
   routes:
     api-provider:
 
-      path: /pqqqpp/**
+      path: /pppp/**
       serviceId:  provider-service
     api-consumer:
-      path: /cqqqcc/**
+      path: /cccc/**
       serviceId:  consumer-service
