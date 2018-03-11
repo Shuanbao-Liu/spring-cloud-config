@@ -2,9 +2,9 @@ zuul:
   routes:
     api-provider:
 
-      path: /test_provider_aaa/**
+      path: /provider_aaa/**
       serviceId:  provider-service
     api-consumer:
-      path: /test_consumer_bbb/**
+      path: /consumer_bbb/**
       serviceId:  consumer-service
 
