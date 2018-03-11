@@ -1,7 +1,6 @@
 zuul:
   routes:
     api-provider:
-
       path: /provider_test/**
       serviceId:  provider-service
     api-consumer:
