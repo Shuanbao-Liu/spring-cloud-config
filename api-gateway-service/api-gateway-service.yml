@@ -1,8 +1,8 @@
 zuul:
   routes:
     api-provider:
-      path: /provider_test/**
+      path: /ptest/**
       serviceId:  provider-service
     api-consumer:
-      path: /consumer_test/**
+      path: /ctest/**
       serviceId:  consumer-service
